@@ -81,4 +81,3 @@ jobs:
             "diffs": ${{ steps.diff.outputs.diff }}
           }
           EOF
-
